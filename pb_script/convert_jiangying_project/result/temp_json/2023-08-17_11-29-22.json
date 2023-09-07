@@ -1,0 +1,33 @@
+{
+"media": {
+"@ref": "D:\\jianying_template\\N295-春节祝福【兔年春节】-竖屏-0分12秒\\videos\\f9e8274a5a1f7cca9f9b03c1465c6b9a.jpg",
+"track": [
+{
+"@type": "General",
+"ImageCount": "1",
+"FileExtension": "jpg",
+"Format": "PNG",
+"FileSize": "8575",
+"StreamSize": "0",
+"File_Created_Date": "UTC 2023-08-17 01:25:07.655",
+"File_Created_Date_Local": "2023-08-17 09:25:07.655",
+"File_Modified_Date": "UTC 2023-08-17 01:25:07.370",
+"File_Modified_Date_Local": "2023-08-17 09:25:07.370",
+"extra": {
+"FileExtension_Invalid": "png pns"
+}
+},
+{
+"@type": "Image",
+"Format": "PNG",
+"Format_Compression": "Deflate",
+"Width": "1920",
+"Height": "1080",
+"ColorSpace": "RGB",
+"BitDepth": "8",
+"Compression_Mode": "Lossless",
+"StreamSize": "8575"
+}
+]
+}
+}

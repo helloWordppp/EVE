@@ -1,0 +1,42 @@
+{
+  "project_name": "",
+  "fr": 0,//帧率
+  "op": 0,//总帧数
+  "w": 0,//宽
+  "h": 0,//高
+  
+  "project_duration": 0,//项目时长 毫秒 总帧数/每秒帧率*1000
+  "layers": [//布局列表  每一个表示一个布局
+    {
+      "ind": 1,//布局id 对应ae工程中的id
+      "parent": 0,//继承父对象id
+      "nm": "",//对应ae里面的name
+      "type": "",//图片还是文本
+      "image_path": "",//图片路径 如果是文字则该项为空
+      "resizing": [ // 缩放
+
+      ],
+      "pos": [], // 初始位置 以图片或者
+      "anchor_point": [], // 锚点
+      "rotation": { // 旋转信息
+        "rotation_point": [], // 默认以中心点为旋转点
+        "rotation_value": [], // 各个时间点的值 (time, value)
+        "axis_of_rotation": "" // 按照哪个轴旋转
+      },
+      "opacity": {}, // 透明度
+      "text": { // 文字信息
+        "default_value": "", // 文字默认值
+        "text_size": 0, //文字大小，像素
+        "fonts_name": "", //文字字体
+        "fonts_alignment": 0, //文字对齐方式 0-左对齐  1-右对齐  2-居中对齐
+        "fonts_color": [], // 字体颜色
+        "stroke_color": [], //描边颜色
+        "stroke_w": 0, //描边像素值
+        "line_h": 0 //行高
+      }
+
+    }
+
+  ]
+
+}

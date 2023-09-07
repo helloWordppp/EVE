@@ -1,0 +1,50 @@
+{
+"media": {
+"@ref": "D:\\jianying_template\\N284-春节祝福【兔年春节】-横屏-0分22秒\\audios\\1e701600194cb12fe3ce5f59023a595c.mp3",
+"track": [
+{
+"@type": "General",
+"AudioCount": "1",
+"FileExtension": "mp3",
+"Format": "MPEG Audio",
+"FileSize": "358804",
+"Duration": "22.386",
+"OverallBitRate_Mode": "CBR",
+"OverallBitRate": "128000",
+"StreamSize": "196",
+"File_Created_Date": "UTC 2023-08-17 01:25:02.993",
+"File_Created_Date_Local": "2023-08-17 09:25:02.993",
+"File_Modified_Date": "UTC 2023-08-17 01:25:02.956",
+"File_Modified_Date_Local": "2023-08-17 09:25:02.956",
+"Encoded_Library": "LAME3.100",
+"extra": {
+"major_brand": "M4A ",
+"minor_version": "512",
+"compatible_brands": "isomiso2",
+"comment": "vid:v03882490000bobekh5hc0n8k40qtt80"
+}
+},
+{
+"@type": "Audio",
+"Format": "MPEG Audio",
+"Format_Version": "1",
+"Format_Profile": "Layer 3",
+"Format_Settings_Mode": "Joint stereo",
+"Format_Settings_ModeExtension": "MS Stereo",
+"Duration": "22.387",
+"BitRate_Mode": "CBR",
+"BitRate": "128000",
+"Channels": "2",
+"SamplesPerFrame": "1152",
+"SamplingRate": "44100",
+"SamplingCount": "987264",
+"FrameRate": "38.281",
+"FrameCount": "857",
+"Compression_Mode": "Lossy",
+"StreamSize": "358191",
+"StreamSize_Proportion": "0.99829",
+"Encoded_Library": "LAME3.100"
+}
+]
+}
+}

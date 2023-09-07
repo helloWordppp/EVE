@@ -1,0 +1,22 @@
+{
+"media": {
+"@ref": "D:\\jianying_template\\N287-春节祝福【兔年春节】-横屏-0分17秒\\videos\\905690bd5b4ae84a19a26a757d9eb06f.jpg",
+"track": [
+{
+"@type": "General",
+"ImageCount": "1",
+"FileExtension": "jpg",
+"Format": "WebP",
+"FileSize": "102102",
+"File_Created_Date": "UTC 2023-08-17 01:25:04.728",
+"File_Created_Date_Local": "2023-08-17 09:25:04.728",
+"File_Modified_Date": "UTC 2023-08-17 01:25:04.319",
+"File_Modified_Date_Local": "2023-08-17 09:25:04.319"
+},
+{
+"@type": "Image",
+"Format": "WebP"
+}
+]
+}
+}

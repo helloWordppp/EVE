@@ -1,0 +1,67 @@
+2023-07-24 13:45:47,102 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:45:47,102 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:45:47,103 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:45:47,106 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 65, in get_main_handle--get_amin_handle hwnd is:0 max_w:0 max_h:0  
+2023-07-24 13:45:47,106 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 826, in set_app_top--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 820, in set_app_top
+    win32gui.SetWindowPos(hwnd, win32con.HWND_TOPMOST, 0, 0, 0, 0,
+pywintypes.error: (1400, 'SetWindowPos', 'Invalid window handle.')
+  
+2023-07-24 13:49:28,040 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:49:28,041 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:49:28,043 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:49:28,044 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:49:28,047 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 66, in get_main_handle--get_amin_handle hwnd is:0 max_w:0 max_h:0  
+2023-07-24 13:49:28,048 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 826, in set_app_top--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 820, in set_app_top
+    win32gui.SetWindowPos(hwnd, win32con.HWND_TOPMOST, 0, 0, 0, 0,
+pywintypes.error: (1400, 'SetWindowPos', 'Invalid window handle.')
+  
+2023-07-24 13:50:53,497 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:50:53,499 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:50:53,499 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:50:53,499 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:50:53,502 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 66, in get_main_handle--get_amin_handle hwnd is:0 max_w:0 max_h:0  
+2023-07-24 13:50:53,502 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 826, in set_app_top--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 820, in set_app_top
+    win32gui.SetWindowPos(hwnd, win32con.HWND_TOPMOST, 0, 0, 0, 0,
+pywintypes.error: (1400, 'SetWindowPos', 'Invalid window handle.')
+  
+2023-07-24 13:55:22,277 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:55:22,278 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:55:22,278 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:55:22,279 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 13:55:22,281 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 67, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  
+2023-07-24 14:05:59,468 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:05:59,469 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:05:59,470 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:05:59,470 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:05:59,471 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 69, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  
+2023-07-24 14:07:06,682 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:06,685 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:06,686 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:06,686 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:06,687 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 75, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  
+2023-07-24 14:07:31,554 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:31,556 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:31,557 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:31,557 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:31,559 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 75, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  
+2023-07-24 14:07:56,816 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 17369938), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:56,817 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:56,817 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:56,818 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:07:56,819 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 75, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  
+2023-07-24 14:11:06,185 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 267348), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:11:06,188 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 399542), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:11:06,189 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:11:06,189 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 14:11:06,377 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 77, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  
+2023-07-24 15:31:27,300 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 399542), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 15:31:27,301 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 15:31:27,302 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 15:31:27,327 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 77, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  
+2023-07-24 15:35:00,763 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 329852), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 15:35:00,765 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 12324786), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 15:35:00,765 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\CaseRealization\Public\eve_base.py", line 517, in get_all_hwnd--OrderedDict([('hwnd', 7212086), ('title', 'CapCut'), ('hwnd_id', 23412)])  
+2023-07-24 15:35:00,767 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\pb_script\get_capcut_source\get_capcut_source.py", line 77, in get_main_handle--get_amin_handle hwnd is:7212086 max_w:4096 max_h:2076  

@@ -1,0 +1,33 @@
+{
+"media": {
+"@ref": "D:\\jianying_template\\N288-春节祝福【兔年春节】-横屏-0分49秒\\videos\\4d5b4d748c9486aae227eb8eae822584.jpg",
+"track": [
+{
+"@type": "General",
+"ImageCount": "1",
+"FileExtension": "jpg",
+"Format": "JPEG",
+"FileSize": "365737",
+"StreamSize": "0",
+"File_Created_Date": "UTC 2023-08-17 01:25:05.670",
+"File_Created_Date_Local": "2023-08-17 09:25:05.670",
+"File_Modified_Date": "UTC 2023-08-17 01:25:04.882",
+"File_Modified_Date_Local": "2023-08-17 09:25:04.882"
+},
+{
+"@type": "Image",
+"Format": "JPEG",
+"Width": "1280",
+"Height": "720",
+"ColorSpace": "YUV",
+"ChromaSubsampling": "4:2:0",
+"BitDepth": "8",
+"Compression_Mode": "Lossy",
+"StreamSize": "365737",
+"extra": {
+"ColorSpace_ICC": "RGB"
+}
+}
+]
+}
+}

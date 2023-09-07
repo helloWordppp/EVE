@@ -1,0 +1,44 @@
+{
+"media": {
+"@ref": "D:\\jianying_template\\N294-春节祝福【兔年春节】-竖屏-0分10秒\\audios\\4204db0e33b32b47096e9d48b1d32419.mp3",
+"track": [
+{
+"@type": "General",
+"AudioCount": "1",
+"FileExtension": "mp3",
+"Format": "MPEG Audio",
+"FileSize": "181020",
+"Duration": "11.284",
+"OverallBitRate_Mode": "CBR",
+"OverallBitRate": "128000",
+"StreamSize": "45",
+"File_Created_Date": "UTC 2023-08-17 01:25:07.570",
+"File_Created_Date_Local": "2023-08-17 09:25:07.570",
+"File_Modified_Date": "UTC 2023-08-17 01:25:06.950",
+"File_Modified_Date_Local": "2023-08-17 09:25:06.950",
+"Encoded_Library": "LAME3.100"
+},
+{
+"@type": "Audio",
+"Format": "MPEG Audio",
+"Format_Version": "1",
+"Format_Profile": "Layer 3",
+"Format_Settings_Mode": "Joint stereo",
+"Format_Settings_ModeExtension": "MS Stereo",
+"Duration": "11.285",
+"BitRate_Mode": "CBR",
+"BitRate": "128000",
+"Channels": "2",
+"SamplesPerFrame": "1152",
+"SamplingRate": "44100",
+"SamplingCount": "497664",
+"FrameRate": "38.281",
+"FrameCount": "432",
+"Compression_Mode": "Lossy",
+"StreamSize": "180558",
+"StreamSize_Proportion": "0.99745",
+"Encoded_Library": "LAME3.100"
+}
+]
+}
+}

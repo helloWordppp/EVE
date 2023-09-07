@@ -1,0 +1,55 @@
+{
+"media": {
+"@ref": "D:\\jianying_template\\N286-春节祝福【兔年春节】-横屏-0分25秒\\audios\\43398f8647368efacdff91568642ed2f.m4a",
+"track": [
+{
+"@type": "General",
+"AudioCount": "1",
+"FileExtension": "m4a",
+"Format": "MPEG-4",
+"Format_Profile": "Apple audio with iTunes info",
+"CodecID": "M4A ",
+"CodecID_Compatible": "isom/iso2",
+"FileSize": "473150",
+"Duration": "29.200",
+"OverallBitRate_Mode": "CBR",
+"OverallBitRate": "129630",
+"StreamSize": "5778",
+"HeaderSize": "5770",
+"DataSize": "467380",
+"FooterSize": "0",
+"IsStreamable": "Yes",
+"File_Created_Date": "UTC 2023-08-17 01:25:03.952",
+"File_Created_Date_Local": "2023-08-17 09:25:03.952",
+"File_Modified_Date": "UTC 2023-08-17 01:25:03.732",
+"File_Modified_Date_Local": "2023-08-17 09:25:03.732",
+"Encoded_Application": "Lavf58.20.100"
+},
+{
+"@type": "Audio",
+"StreamOrder": "0",
+"ID": "1",
+"Format": "AAC",
+"Format_AdditionalFeatures": "LC",
+"CodecID": "mp4a-40-2",
+"Duration": "29.200",
+"Duration_LastFrame": "-0.012",
+"BitRate_Mode": "CBR",
+"BitRate": "128051",
+"Channels": "2",
+"ChannelPositions": "Front: L R",
+"ChannelLayout": "L R",
+"SamplesPerFrame": "1024",
+"SamplingRate": "44100",
+"SamplingCount": "1287720",
+"FrameRate": "43.066",
+"FrameCount": "1258",
+"Compression_Mode": "Lossy",
+"StreamSize": "467372",
+"StreamSize_Proportion": "0.98779",
+"Default": "Yes",
+"AlternateGroup": "1"
+}
+]
+}
+}

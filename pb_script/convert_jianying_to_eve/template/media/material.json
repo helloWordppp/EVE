@@ -1,0 +1,29 @@
+{
+    "fileName": "",
+    "materialAudioInfo": {
+        "bitDepth": 0,
+        "bitRate": 0,
+        "duration": 0,
+        "fourCC": 0,
+        "sampleRate": 0
+    },
+    "materialBasicInfo": {
+        "audioStreamCount": 1,
+        "bitRate": 0,
+        "duration": 0,
+        "fourCC": 0,
+        "itemType": 1,
+        "videoStreamCount": 1
+    },
+    "materialVideoInfo": {
+        "bitRate": 0,
+        "duration": 0,
+        "fourCC": 0,
+        "frameRateDen": 0,
+        "frameRateNum": 0,
+        "height": 1080,
+        "totalFrames": 0,
+        "width": 1920
+    },
+    "version": 256
+}

@@ -1,0 +1,4 @@
+2023-09-06 09:11:58,955 - comtypes.client._generate - INFO - Could not import comtypes.gen._944DE083_8FB8_45CF_BCB7_C477ACB2F897_0_1_0: Typelib different than module
+2023-09-06 09:11:58,964 - comtypes.client._generate - INFO - # Generating comtypes.gen._944DE083_8FB8_45CF_BCB7_C477ACB2F897_0_1_0
+2023-09-06 09:11:59,021 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: Typelib different than module
+2023-09-06 09:11:59,022 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0

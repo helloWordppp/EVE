@@ -1,0 +1,40 @@
+{
+"media": {
+"@ref": "C:\\Users\\31447\\AppData\\Local\\JianyingPro\\User Data\\Projects\\com.lveditor.draft\\N289-春节祝福【兔年春节】-横屏-0分30秒\\audios\\ea84377633efdc9f6c9ca7a1bc1cb061.wav",
+"track": [
+{
+"@type": "General",
+"AudioCount": "1",
+"FileExtension": "wav",
+"Format": "Wave",
+"FileSize": "5292152",
+"Duration": "30.000",
+"OverallBitRate_Mode": "CBR",
+"OverallBitRate": "1411241",
+"StreamSize": "120",
+"File_Created_Date": "UTC 2023-08-17 01:53:59.626",
+"File_Created_Date_Local": "2023-08-17 09:53:59.626",
+"File_Modified_Date": "UTC 2023-08-17 01:25:05.234",
+"File_Modified_Date_Local": "2023-08-17 09:25:05.234",
+"Encoded_Application": "Lavf57.71.100",
+"Copyright": "74da9f1cf69fe3ae5101170ce1249253"
+},
+{
+"@type": "Audio",
+"Format": "PCM",
+"Format_Settings_Endianness": "Little",
+"Format_Settings_Sign": "Signed",
+"CodecID": "1",
+"Duration": "30.000",
+"BitRate_Mode": "CBR",
+"BitRate": "1411200",
+"Channels": "2",
+"SamplingRate": "44100",
+"SamplingCount": "1323008",
+"BitDepth": "16",
+"StreamSize": "5292032",
+"StreamSize_Proportion": "0.99998"
+}
+]
+}
+}

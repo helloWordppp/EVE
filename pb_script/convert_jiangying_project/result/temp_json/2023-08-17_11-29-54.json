@@ -1,0 +1,38 @@
+{
+"media": {
+"@ref": "D:\\jianying_template\\N287-春节祝福【兔年春节】-横屏-0分17秒\\audios\\b076b95ed4a9c95a5cf29544da719af3.wav",
+"track": [
+{
+"@type": "General",
+"AudioCount": "1",
+"FileExtension": "wav",
+"Format": "Wave",
+"FileSize": "18710592",
+"Duration": "106.069",
+"OverallBitRate_Mode": "CBR",
+"OverallBitRate": "1411202",
+"StreamSize": "56",
+"File_Created_Date": "UTC 2023-08-17 01:25:04.619",
+"File_Created_Date_Local": "2023-08-17 09:25:04.619",
+"File_Modified_Date": "UTC 2023-08-17 01:25:04.259",
+"File_Modified_Date_Local": "2023-08-17 09:25:04.259"
+},
+{
+"@type": "Audio",
+"Format": "PCM",
+"Format_Settings_Endianness": "Little",
+"Format_Settings_Sign": "Signed",
+"CodecID": "1",
+"Duration": "106.069",
+"BitRate_Mode": "CBR",
+"BitRate": "1411200",
+"Channels": "2",
+"SamplingRate": "44100",
+"SamplingCount": "4677634",
+"BitDepth": "16",
+"StreamSize": "18710536",
+"StreamSize_Proportion": "1.00000"
+}
+]
+}
+}

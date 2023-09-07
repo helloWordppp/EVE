@@ -1,0 +1,4 @@
+2023-06-21 11:18:10,380 - root - INFO -   File "E:\MyProject\PythonProject\ERE3.5\CaseRealization\Public\ere_base.py", line 489, in get_all_hwnd--OrderedDict([('hwnd', 337632), ('title', 'RecExperts'), ('hwnd_id', 42812)])  
+2023-06-21 11:18:10,380 - root - INFO -   File "E:\MyProject\PythonProject\ERE3.5\CaseRealization\Public\ere_base.py", line 489, in get_all_hwnd--OrderedDict([('hwnd', 11544340), ('title', 'EaseUsPainterWindow'), ('hwnd_id', 42812)])  
+2023-06-21 12:14:31,523 - root - INFO -   File "E:/MyProject/PythonProject/ERE3.5/CaseRealization/Public/ere_base.py", line 489, in get_all_hwnd--OrderedDict([('hwnd', 2296238), ('title', 'RecExperts'), ('hwnd_id', 46432)])  
+2023-06-21 12:14:33,850 - root - INFO -   File "E:/MyProject/PythonProject/ERE3.5/CaseRealization/Public/ere_base.py", line 489, in get_all_hwnd--OrderedDict([('hwnd', 468686), ('title', 'EaseUsPainterWindow'), ('hwnd_id', 46432)])  

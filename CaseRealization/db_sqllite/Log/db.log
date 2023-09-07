@@ -1,0 +1,30 @@
+2023-05-31 10:08:49,605 - CaseRealization.db_sqllite.logging_print - INFO - Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\ERE3.5\CaseRealization\db_sqllite\thread_management.py", line 70, in Start_thread
+    one_thread.start()
+  File "C:\Python39\lib\multiprocessing\process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "C:\Python39\lib\multiprocessing\context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "C:\Python39\lib\multiprocessing\context.py", line 327, in _Popen
+    return Popen(process_obj)
+  File "C:\Python39\lib\multiprocessing\popen_spawn_win32.py", line 93, in __init__
+    reduction.dump(process_obj, to_child)
+  File "C:\Python39\lib\multiprocessing\reduction.py", line 60, in dump
+    ForkingPickler(file, protocol).dump(obj)
+TypeError: cannot pickle 'sqlite3.Connection' object
+  
+2023-05-31 10:09:32,747 - CaseRealization.db_sqllite.logging_print - INFO - Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\ERE3.5\CaseRealization\db_sqllite\thread_management.py", line 70, in Start_thread
+    one_thread.start()
+  File "C:\Python39\lib\multiprocessing\process.py", line 121, in start
+    self._popen = self._Popen(self)
+  File "C:\Python39\lib\multiprocessing\context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+  File "C:\Python39\lib\multiprocessing\context.py", line 327, in _Popen
+    return Popen(process_obj)
+  File "C:\Python39\lib\multiprocessing\popen_spawn_win32.py", line 93, in __init__
+    reduction.dump(process_obj, to_child)
+  File "C:\Python39\lib\multiprocessing\reduction.py", line 60, in dump
+    ForkingPickler(file, protocol).dump(obj)
+TypeError: cannot pickle 'sqlite3.Connection' object
+  

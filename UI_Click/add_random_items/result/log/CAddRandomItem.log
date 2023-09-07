@@ -1,0 +1,643 @@
+2023-09-06 12:42:51,348 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 54, in run_logic--未找到素材类型  
+2023-09-06 12:43:37,134 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 79, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000001FC9B314F40>, <uiautomation.uiautomation.PaneControl object at 0x000001FC9B314B20>, <uiautomation.uiautomation.ButtonControl object at 0x000001FC9B314F70>, <uiautomation.uiautomation.ButtonControl object at 0x000001FC9B314B50>, <uiautomation.uiautomation.ButtonControl object at 0x000001FC9B314B80>, <uiautomation.uiautomation.CustomControl object at 0x000001FC9B314BB0>, <uiautomation.uiautomation.GroupControl object at 0x000001FC9B314BE0>, <uiautomation.uiautomation.TextControl object at 0x000001FC9B314C10>, <uiautomation.uiautomation.GroupControl object at 0x000001FC9B314C40>, <uiautomation.uiautomation.TextControl object at 0x000001FC9B314C70>, <uiautomation.uiautomation.TextControl object at 0x000001FC9B314CD0>, <uiautomation.uiautomation.ButtonControl object at 0x000001FC9B314D00>, <uiautomation.uiautomation.ButtonControl object at 0x000001FC9B314D30>, <uiautomation.uiautomation.ButtonControl object at 0x000001FC9B314D60>]  
+2023-09-06 12:43:37,323 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 54, in run_logic--未找到素材类型  
+2023-09-06 12:45:26,657 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 79, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x0000016EAA5F4F40>, <uiautomation.uiautomation.PaneControl object at 0x0000016EAA5F4B20>, <uiautomation.uiautomation.ButtonControl object at 0x0000016EAA5F4F70>, <uiautomation.uiautomation.ButtonControl object at 0x0000016EAA5F4B50>, <uiautomation.uiautomation.ButtonControl object at 0x0000016EAA5F4B80>, <uiautomation.uiautomation.CustomControl object at 0x0000016EAA5F4BB0>, <uiautomation.uiautomation.GroupControl object at 0x0000016EAA5F4BE0>, <uiautomation.uiautomation.TextControl object at 0x0000016EAA5F4C10>, <uiautomation.uiautomation.GroupControl object at 0x0000016EAA5F4C40>, <uiautomation.uiautomation.TextControl object at 0x0000016EAA5F4C70>, <uiautomation.uiautomation.TextControl object at 0x0000016EAA5F4CD0>, <uiautomation.uiautomation.ButtonControl object at 0x0000016EAA5F4D00>, <uiautomation.uiautomation.ButtonControl object at 0x0000016EAA5F4D30>, <uiautomation.uiautomation.ButtonControl object at 0x0000016EAA5F4D60>]  
+2023-09-06 12:45:26,773 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 54, in run_logic--未找到素材类型  
+2023-09-06 12:46:14,798 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 79, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000002370AC03F40>, <uiautomation.uiautomation.PaneControl object at 0x000002370AC03B20>, <uiautomation.uiautomation.ButtonControl object at 0x000002370AC03F70>, <uiautomation.uiautomation.ButtonControl object at 0x000002370AC03B50>, <uiautomation.uiautomation.ButtonControl object at 0x000002370AC03B80>, <uiautomation.uiautomation.CustomControl object at 0x000002370AC03BB0>, <uiautomation.uiautomation.GroupControl object at 0x000002370AC03BE0>, <uiautomation.uiautomation.TextControl object at 0x000002370AC03C10>, <uiautomation.uiautomation.GroupControl object at 0x000002370AC03C40>, <uiautomation.uiautomation.TextControl object at 0x000002370AC03C70>, <uiautomation.uiautomation.TextControl object at 0x000002370AC03CD0>, <uiautomation.uiautomation.ButtonControl object at 0x000002370AC03D00>, <uiautomation.uiautomation.ButtonControl object at 0x000002370AC03D30>, <uiautomation.uiautomation.ButtonControl object at 0x000002370AC03D60>]  
+2023-09-06 12:46:14,916 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 54, in run_logic--未找到素材类型  
+2023-09-06 12:49:55,559 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 79, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000001CD0C953F40>, <uiautomation.uiautomation.PaneControl object at 0x000001CD0C953B20>, <uiautomation.uiautomation.ButtonControl object at 0x000001CD0C953F70>, <uiautomation.uiautomation.ButtonControl object at 0x000001CD0C953B50>, <uiautomation.uiautomation.ButtonControl object at 0x000001CD0C953B80>, <uiautomation.uiautomation.CustomControl object at 0x000001CD0C953BB0>, <uiautomation.uiautomation.GroupControl object at 0x000001CD0C953BE0>, <uiautomation.uiautomation.TextControl object at 0x000001CD0C953C10>, <uiautomation.uiautomation.GroupControl object at 0x000001CD0C953C40>, <uiautomation.uiautomation.TextControl object at 0x000001CD0C953C70>, <uiautomation.uiautomation.TextControl object at 0x000001CD0C953CD0>, <uiautomation.uiautomation.ButtonControl object at 0x000001CD0C953D00>, <uiautomation.uiautomation.ButtonControl object at 0x000001CD0C953D30>, <uiautomation.uiautomation.ButtonControl object at 0x000001CD0C953D60>]  
+2023-09-06 12:49:55,575 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 88, in get_media_group_control--[<uiautomation.uiautomation.GroupControl object at 0x000001CD0C953D90>, <uiautomation.uiautomation.CustomControl object at 0x000001CD0C953DC0>, <uiautomation.uiautomation.ThumbControl object at 0x000001CD0C953EE0>]  
+2023-09-06 12:49:55,684 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 54, in run_logic--未找到素材类型  
+2023-09-06 12:52:22,917 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 79, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000001620D7F3F40>, <uiautomation.uiautomation.PaneControl object at 0x000001620D7F3B20>, <uiautomation.uiautomation.ButtonControl object at 0x000001620D7F3F70>, <uiautomation.uiautomation.ButtonControl object at 0x000001620D7F3B50>, <uiautomation.uiautomation.ButtonControl object at 0x000001620D7F3B80>, <uiautomation.uiautomation.CustomControl object at 0x000001620D7F3BB0>, <uiautomation.uiautomation.GroupControl object at 0x000001620D7F3BE0>, <uiautomation.uiautomation.TextControl object at 0x000001620D7F3C10>, <uiautomation.uiautomation.GroupControl object at 0x000001620D7F3C40>, <uiautomation.uiautomation.TextControl object at 0x000001620D7F3C70>, <uiautomation.uiautomation.TextControl object at 0x000001620D7F3CD0>, <uiautomation.uiautomation.ButtonControl object at 0x000001620D7F3D00>, <uiautomation.uiautomation.ButtonControl object at 0x000001620D7F3D30>, <uiautomation.uiautomation.ButtonControl object at 0x000001620D7F3D60>]  
+2023-09-06 12:52:23,049 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 58, in run_logic--点击素材类型失败  
+2023-09-06 12:53:23,939 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 79, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x0000029692E43F40>, <uiautomation.uiautomation.PaneControl object at 0x0000029692E43B20>, <uiautomation.uiautomation.ButtonControl object at 0x0000029692E43F70>, <uiautomation.uiautomation.ButtonControl object at 0x0000029692E43B50>, <uiautomation.uiautomation.ButtonControl object at 0x0000029692E43B80>, <uiautomation.uiautomation.CustomControl object at 0x0000029692E43BB0>, <uiautomation.uiautomation.GroupControl object at 0x0000029692E43BE0>, <uiautomation.uiautomation.TextControl object at 0x0000029692E43C10>, <uiautomation.uiautomation.GroupControl object at 0x0000029692E43C40>, <uiautomation.uiautomation.TextControl object at 0x0000029692E43C70>, <uiautomation.uiautomation.TextControl object at 0x0000029692E43CD0>, <uiautomation.uiautomation.ButtonControl object at 0x0000029692E43D00>, <uiautomation.uiautomation.ButtonControl object at 0x0000029692E43D30>, <uiautomation.uiautomation.ButtonControl object at 0x0000029692E43D60>]  
+2023-09-06 12:53:24,054 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 117, in click_media_button--  False  
+2023-09-06 12:53:24,054 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 58, in run_logic--点击素材类型失败  
+2023-09-06 12:54:56,671 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 79, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000001C282644F40>, <uiautomation.uiautomation.PaneControl object at 0x000001C282644B20>, <uiautomation.uiautomation.ButtonControl object at 0x000001C282644F70>, <uiautomation.uiautomation.ButtonControl object at 0x000001C282644B50>, <uiautomation.uiautomation.ButtonControl object at 0x000001C282644B80>, <uiautomation.uiautomation.CustomControl object at 0x000001C282644BB0>, <uiautomation.uiautomation.GroupControl object at 0x000001C282644BE0>, <uiautomation.uiautomation.TextControl object at 0x000001C282644C10>, <uiautomation.uiautomation.GroupControl object at 0x000001C282644C40>, <uiautomation.uiautomation.TextControl object at 0x000001C282644C70>, <uiautomation.uiautomation.TextControl object at 0x000001C282644CD0>, <uiautomation.uiautomation.ButtonControl object at 0x000001C282644D00>, <uiautomation.uiautomation.ButtonControl object at 0x000001C282644D30>, <uiautomation.uiautomation.ButtonControl object at 0x000001C282644D60>]  
+2023-09-06 12:54:56,822 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button--  False  
+2023-09-06 12:54:56,822 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 58, in run_logic--点击素材类型失败  
+2023-09-06 12:56:40,139 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 81, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x0000023C58CF4B20>, <uiautomation.uiautomation.PaneControl object at 0x0000023C58CF4F70>, <uiautomation.uiautomation.ButtonControl object at 0x0000023C58CF4B50>, <uiautomation.uiautomation.ButtonControl object at 0x0000023C58CF4B80>, <uiautomation.uiautomation.ButtonControl object at 0x0000023C58CF4BB0>, <uiautomation.uiautomation.CustomControl object at 0x0000023C58CF4BE0>, <uiautomation.uiautomation.GroupControl object at 0x0000023C58CF4C10>, <uiautomation.uiautomation.TextControl object at 0x0000023C58CF4C40>, <uiautomation.uiautomation.GroupControl object at 0x0000023C58CF4C70>, <uiautomation.uiautomation.TextControl object at 0x0000023C58CF4CD0>, <uiautomation.uiautomation.TextControl object at 0x0000023C58CF4D00>, <uiautomation.uiautomation.ButtonControl object at 0x0000023C58CF4D30>, <uiautomation.uiautomation.ButtonControl object at 0x0000023C58CF4D60>, <uiautomation.uiautomation.ButtonControl object at 0x0000023C58CF4D90>]  
+2023-09-06 12:56:40,268 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 120, in click_media_button--Media  True  
+2023-09-06 13:02:23,307 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 81, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000001BB0354CD30>, <uiautomation.uiautomation.PaneControl object at 0x000001BB0354CD60>, <uiautomation.uiautomation.ButtonControl object at 0x000001BB0354CD90>, <uiautomation.uiautomation.ButtonControl object at 0x000001BB0354CDC0>, <uiautomation.uiautomation.ButtonControl object at 0x000001BB0354CDF0>, <uiautomation.uiautomation.CustomControl object at 0x000001BB0354CE20>, <uiautomation.uiautomation.GroupControl object at 0x000001BB0354CE50>, <uiautomation.uiautomation.TextControl object at 0x000001BB0354CEB0>, <uiautomation.uiautomation.GroupControl object at 0x000001BB0354CEE0>, <uiautomation.uiautomation.TextControl object at 0x000001BB0354CF10>, <uiautomation.uiautomation.TextControl object at 0x000001BB0354CF40>, <uiautomation.uiautomation.ButtonControl object at 0x000001BB0354CF70>, <uiautomation.uiautomation.ButtonControl object at 0x000001BB0354CFA0>, <uiautomation.uiautomation.ButtonControl object at 0x000001BB0354CFD0>]  
+2023-09-06 13:02:23,546 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 120, in click_media_button--Media  True  
+2023-09-06 13:03:22,401 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 81, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x00000297F0A4CD60>, <uiautomation.uiautomation.PaneControl object at 0x00000297F0A4CD90>, <uiautomation.uiautomation.ButtonControl object at 0x00000297F0A4CDC0>, <uiautomation.uiautomation.ButtonControl object at 0x00000297F0A4CDF0>, <uiautomation.uiautomation.ButtonControl object at 0x00000297F0A4CE20>, <uiautomation.uiautomation.CustomControl object at 0x00000297F0A4CE50>, <uiautomation.uiautomation.GroupControl object at 0x00000297F0A4CE80>, <uiautomation.uiautomation.TextControl object at 0x00000297F0A4CEB0>, <uiautomation.uiautomation.GroupControl object at 0x00000297F0A4CF10>, <uiautomation.uiautomation.TextControl object at 0x00000297F0A4CF40>, <uiautomation.uiautomation.TextControl object at 0x00000297F0A4CF70>, <uiautomation.uiautomation.ButtonControl object at 0x00000297F0A4CFA0>, <uiautomation.uiautomation.ButtonControl object at 0x00000297F0A4CFD0>, <uiautomation.uiautomation.ButtonControl object at 0x00000297F0A67190>]  
+2023-09-06 13:03:22,601 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 120, in click_media_button--Media  True  
+2023-09-06 13:04:17,235 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 81, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x0000024EBF2EDD60>, <uiautomation.uiautomation.PaneControl object at 0x0000024EBF2EDD90>, <uiautomation.uiautomation.ButtonControl object at 0x0000024EBF2EDDC0>, <uiautomation.uiautomation.ButtonControl object at 0x0000024EBF2EDDF0>, <uiautomation.uiautomation.ButtonControl object at 0x0000024EBF2EDE20>, <uiautomation.uiautomation.CustomControl object at 0x0000024EBF2EDE50>, <uiautomation.uiautomation.GroupControl object at 0x0000024EBF2EDE80>, <uiautomation.uiautomation.TextControl object at 0x0000024EBF2EDEE0>, <uiautomation.uiautomation.GroupControl object at 0x0000024EBF2EDF10>, <uiautomation.uiautomation.TextControl object at 0x0000024EBF2EDF40>, <uiautomation.uiautomation.TextControl object at 0x0000024EBF2EDF70>, <uiautomation.uiautomation.ButtonControl object at 0x0000024EBF2EDFA0>, <uiautomation.uiautomation.ButtonControl object at 0x0000024EBF2EDFD0>, <uiautomation.uiautomation.ButtonControl object at 0x0000024EBF307190>]  
+2023-09-06 13:04:17,405 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 120, in click_media_button--Media  True  
+2023-09-07 16:27:56,006 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000002F646385640>, <uiautomation.uiautomation.PaneControl object at 0x000002F646385400>, <uiautomation.uiautomation.ButtonControl object at 0x000002F646385610>, <uiautomation.uiautomation.ButtonControl object at 0x000002F646385340>, <uiautomation.uiautomation.ButtonControl object at 0x000002F6463855B0>, <uiautomation.uiautomation.CustomControl object at 0x000002F646385C70>, <uiautomation.uiautomation.GroupControl object at 0x000002F646385370>, <uiautomation.uiautomation.TextControl object at 0x000002F6463853A0>, <uiautomation.uiautomation.GroupControl object at 0x000002F6463853D0>, <uiautomation.uiautomation.TextControl object at 0x000002F646385430>, <uiautomation.uiautomation.TextControl object at 0x000002F646385460>, <uiautomation.uiautomation.ButtonControl object at 0x000002F646385490>, <uiautomation.uiautomation.ButtonControl object at 0x000002F6463854C0>, <uiautomation.uiautomation.ButtonControl object at 0x000002F646385520>]  
+2023-09-07 16:27:56,032 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:27:56,033 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:27:56,034 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:27:56,036 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:27:56,038 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:27:56,038 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:27:59,029 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:27:59,030 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:27:59,030 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 16:28:01,890 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:28:01,890 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:28:01,891 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 16:28:04,516 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:28:04,517 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:28:09,932 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:28:09,933 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:28:09,943 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:28:09,944 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:28:09,950 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:28:09,952 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 16:28:09,957 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 16:28:13,065 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:28:13,066 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:28:13,067 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:28:13,069 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:28:13,070 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:28:13,071 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:28:15,682 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:28:15,683 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:28:15,684 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 16:28:18,406 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  True  
+2023-09-07 16:28:21,038 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:28:21,039 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:28:21,040 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:28:21,040 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:28:21,041 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:28:21,042 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:28:23,568 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  True  
+2023-09-07 16:32:19,854 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x0000028EF2F456A0>, <uiautomation.uiautomation.PaneControl object at 0x0000028EF2F45460>, <uiautomation.uiautomation.ButtonControl object at 0x0000028EF2F45670>, <uiautomation.uiautomation.ButtonControl object at 0x0000028EF2F453A0>, <uiautomation.uiautomation.ButtonControl object at 0x0000028EF2F45610>, <uiautomation.uiautomation.CustomControl object at 0x0000028EF2F45D00>, <uiautomation.uiautomation.GroupControl object at 0x0000028EF2F453D0>, <uiautomation.uiautomation.TextControl object at 0x0000028EF2F45400>, <uiautomation.uiautomation.GroupControl object at 0x0000028EF2F45430>, <uiautomation.uiautomation.TextControl object at 0x0000028EF2F45490>, <uiautomation.uiautomation.TextControl object at 0x0000028EF2F454C0>, <uiautomation.uiautomation.ButtonControl object at 0x0000028EF2F454F0>, <uiautomation.uiautomation.ButtonControl object at 0x0000028EF2F45520>, <uiautomation.uiautomation.ButtonControl object at 0x0000028EF2F45550>]  
+2023-09-07 16:32:19,887 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:32:19,888 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:32:19,889 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 16:33:40,580 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000001C2F6D5F7C0>, <uiautomation.uiautomation.PaneControl object at 0x000001C2F6D5F580>, <uiautomation.uiautomation.ButtonControl object at 0x000001C2F6D5F790>, <uiautomation.uiautomation.ButtonControl object at 0x000001C2F6D5F4C0>, <uiautomation.uiautomation.ButtonControl object at 0x000001C2F6D5F730>, <uiautomation.uiautomation.CustomControl object at 0x000001C2F6D5FDF0>, <uiautomation.uiautomation.GroupControl object at 0x000001C2F6D5F4F0>, <uiautomation.uiautomation.TextControl object at 0x000001C2F6D5F520>, <uiautomation.uiautomation.GroupControl object at 0x000001C2F6D5F550>, <uiautomation.uiautomation.TextControl object at 0x000001C2F6D5F5B0>, <uiautomation.uiautomation.TextControl object at 0x000001C2F6D5F5E0>, <uiautomation.uiautomation.ButtonControl object at 0x000001C2F6D5F610>, <uiautomation.uiautomation.ButtonControl object at 0x000001C2F6D5F640>, <uiautomation.uiautomation.ButtonControl object at 0x000001C2F6D5F6A0>]  
+2023-09-07 16:33:40,602 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:33:40,603 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:33:40,605 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:33:40,607 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:33:40,609 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:33:40,610 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 16:33:40,611 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 16:33:43,485 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  True  
+2023-09-07 16:33:46,554 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:33:46,558 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:33:46,559 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:33:46,567 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:33:46,568 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:33:49,269 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:33:49,271 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:33:49,272 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:33:49,273 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  True  
+2023-09-07 16:33:52,049 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:33:52,051 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:33:52,052 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:33:52,052 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  True  
+2023-09-07 16:33:54,583 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:33:54,587 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:33:54,590 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:33:54,597 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:33:54,602 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:33:54,606 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 16:33:54,615 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 16:33:57,159 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:33:57,159 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:33:59,789 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:33:59,790 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:33:59,791 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:33:59,792 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:33:59,793 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:33:59,794 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:34:02,416 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:34:02,417 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:34:05,564 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:34:05,565 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:34:05,566 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:34:05,567 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:34:05,568 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:34:05,570 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:38:41,200 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000002108E14F850>, <uiautomation.uiautomation.PaneControl object at 0x000002108E14F550>, <uiautomation.uiautomation.ButtonControl object at 0x000002108E14F820>, <uiautomation.uiautomation.ButtonControl object at 0x000002108E14F7C0>, <uiautomation.uiautomation.ButtonControl object at 0x000002108E14FE80>, <uiautomation.uiautomation.CustomControl object at 0x000002108E14F580>, <uiautomation.uiautomation.GroupControl object at 0x000002108E14F5B0>, <uiautomation.uiautomation.TextControl object at 0x000002108E14F5E0>, <uiautomation.uiautomation.GroupControl object at 0x000002108E14F640>, <uiautomation.uiautomation.TextControl object at 0x000002108E14F670>, <uiautomation.uiautomation.TextControl object at 0x000002108E14F6A0>, <uiautomation.uiautomation.ButtonControl object at 0x000002108E14F6D0>, <uiautomation.uiautomation.ButtonControl object at 0x000002108E14F730>, <uiautomation.uiautomation.ButtonControl object at 0x000002108E14F760>]  
+2023-09-07 16:38:41,237 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:38:41,239 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:38:41,240 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:38:41,242 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:38:41,247 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:38:41,250 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 16:38:41,251 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 16:38:44,349 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:38:44,350 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:38:44,351 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:38:44,352 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:38:44,353 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:38:44,355 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 16:38:44,356 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 16:41:08,253 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x00000278B9B7D880>, <uiautomation.uiautomation.PaneControl object at 0x00000278B9B7D580>, <uiautomation.uiautomation.ButtonControl object at 0x00000278B9B7D850>, <uiautomation.uiautomation.ButtonControl object at 0x00000278B9B7D7F0>, <uiautomation.uiautomation.ButtonControl object at 0x00000278B9B7DEB0>, <uiautomation.uiautomation.CustomControl object at 0x00000278B9B7D5B0>, <uiautomation.uiautomation.GroupControl object at 0x00000278B9B7D5E0>, <uiautomation.uiautomation.TextControl object at 0x00000278B9B7D610>, <uiautomation.uiautomation.GroupControl object at 0x00000278B9B7D670>, <uiautomation.uiautomation.TextControl object at 0x00000278B9B7D6A0>, <uiautomation.uiautomation.TextControl object at 0x00000278B9B7D6D0>, <uiautomation.uiautomation.ButtonControl object at 0x00000278B9B7D700>, <uiautomation.uiautomation.ButtonControl object at 0x00000278B9B7D760>, <uiautomation.uiautomation.ButtonControl object at 0x00000278B9B7D790>]  
+2023-09-07 16:41:08,288 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:08,289 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:41:08,291 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 16:41:11,278 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  True  
+2023-09-07 16:41:13,563 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:41:13,570 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:13,572 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:41:13,573 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 16:41:15,431 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  True  
+2023-09-07 16:41:17,533 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:41:17,540 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:17,541 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:41:17,544 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:41:17,545 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:41:17,546 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:41:17,547 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 16:41:17,549 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 16:41:19,000 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:41:19,006 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:19,007 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:41:20,263 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:41:20,268 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:20,272 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:41:20,274 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:41:20,275 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:41:20,277 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:41:21,402 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:41:21,408 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:21,409 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:41:21,410 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:41:21,411 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:41:21,412 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:41:21,413 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:41:22,366 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:41:22,373 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:22,376 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:41:22,377 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:41:22,378 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:41:22,380 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:41:23,377 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:41:23,384 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:41:23,385 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:41:23,386 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:41:23,387 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  True  
+2023-09-07 16:41:24,386 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 106, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 85, in run_logic
+    items = all_items[items_index]
+IndexError: list index out of range
+  
+2023-09-07 16:47:04,892 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000001444A7BCB80>, <uiautomation.uiautomation.PaneControl object at 0x000001444A7BC850>, <uiautomation.uiautomation.ButtonControl object at 0x000001444A7BCB50>, <uiautomation.uiautomation.ButtonControl object at 0x000001444A7BCAF0>, <uiautomation.uiautomation.ButtonControl object at 0x000001444A7BC880>, <uiautomation.uiautomation.CustomControl object at 0x000001444A7BC8B0>, <uiautomation.uiautomation.GroupControl object at 0x000001444A7BC8E0>, <uiautomation.uiautomation.TextControl object at 0x000001444A7BC910>, <uiautomation.uiautomation.GroupControl object at 0x000001444A7BC970>, <uiautomation.uiautomation.TextControl object at 0x000001444A7BC9A0>, <uiautomation.uiautomation.TextControl object at 0x000001444A7BCA00>, <uiautomation.uiautomation.ButtonControl object at 0x000001444A7BCA30>, <uiautomation.uiautomation.ButtonControl object at 0x000001444A7BCA60>, <uiautomation.uiautomation.ButtonControl object at 0x000001444A7BCA90>]  
+2023-09-07 16:47:04,925 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:47:04,927 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:47:04,928 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:47:04,930 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:47:04,931 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:47:07,156 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有2个分类  第0个分类中元素个数为:95  
+2023-09-07 16:47:07,157 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:47:08,083 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:47:08,086 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:47:08,090 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 16:47:10,297 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Text 总共有4个分类  第0个分类中元素个数为:95  
+2023-09-07 16:47:10,297 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第0个元素  
+2023-09-07 16:47:36,401 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:47:36,616 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:47:36,833 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:47:37,056 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:47:37,283 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:47:37,503 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:47:37,736 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:47:37,951 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:48:54,889 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x000002502DE4CB50>, <uiautomation.uiautomation.WindowControl object at 0x000002502DE4C850>, <uiautomation.uiautomation.PaneControl object at 0x000002502DE4CB20>, <uiautomation.uiautomation.ButtonControl object at 0x000002502DE4CAC0>, <uiautomation.uiautomation.ButtonControl object at 0x000002502DE4C880>, <uiautomation.uiautomation.ButtonControl object at 0x000002502DE4C8B0>, <uiautomation.uiautomation.CustomControl object at 0x000002502DE4C8E0>, <uiautomation.uiautomation.GroupControl object at 0x000002502DE4C910>, <uiautomation.uiautomation.TextControl object at 0x000002502DE4C940>, <uiautomation.uiautomation.TextControl object at 0x000002502DE4C9A0>, <uiautomation.uiautomation.ButtonControl object at 0x000002502DE4C9D0>, <uiautomation.uiautomation.ButtonControl object at 0x000002502DE4CA30>, <uiautomation.uiautomation.ButtonControl object at 0x000002502DE4CA60>]  
+2023-09-07 16:48:54,935 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:48:54,938 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:48:55,836 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Audio 总共有1个分类  第0个分类中元素个数为:2  
+2023-09-07 16:48:55,837 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:48:56,761 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:48:56,761 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:48:56,762 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:48:56,763 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:48:56,764 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:48:56,766 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:48:58,746 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Effects 总共有2个分类  第0个分类中元素个数为:2  
+2023-09-07 16:48:58,746 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:48:59,678 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:48:59,679 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:49:02,021 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Audio 总共有3个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:02,021 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:49:02,966 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:49:02,968 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:49:02,969 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:49:02,970 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:49:02,971 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:49:04,711 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有4个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:04,712 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:49:05,631 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  True  
+2023-09-07 16:49:07,754 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Media 总共有5个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:07,756 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:49:08,666 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:49:08,667 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:49:08,668 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:49:08,670 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:49:08,671 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 16:49:08,675 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 16:49:11,021 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Effects 总共有6个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:11,025 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:49:11,929 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:49:11,930 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:49:11,932 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:49:11,933 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:49:11,934 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:49:14,323 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有7个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:14,324 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:49:15,297 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:49:15,309 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:49:17,364 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Audio 总共有8个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:17,364 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:49:18,305 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:49:18,306 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:49:20,168 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Audio 总共有9个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:20,168 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:49:21,093 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:49:21,094 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:49:21,096 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:49:21,096 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:49:21,098 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:49:22,621 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有10个分类  第0个分类中元素个数为:2  
+2023-09-07 16:49:22,621 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:50:14,750 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x00000201E953CB20>, <uiautomation.uiautomation.PaneControl object at 0x00000201E953C850>, <uiautomation.uiautomation.ButtonControl object at 0x00000201E953CAF0>, <uiautomation.uiautomation.ButtonControl object at 0x00000201E953CA90>, <uiautomation.uiautomation.ButtonControl object at 0x00000201E953C880>, <uiautomation.uiautomation.CustomControl object at 0x00000201E953C8B0>, <uiautomation.uiautomation.GroupControl object at 0x00000201E953C8E0>, <uiautomation.uiautomation.TextControl object at 0x00000201E953C910>, <uiautomation.uiautomation.TextControl object at 0x00000201E953C970>, <uiautomation.uiautomation.ButtonControl object at 0x00000201E953C9A0>, <uiautomation.uiautomation.ButtonControl object at 0x00000201E953CA00>, <uiautomation.uiautomation.ButtonControl object at 0x00000201E953CA30>]  
+2023-09-07 16:50:14,775 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:50:14,776 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:50:14,776 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:50:14,778 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  True  
+2023-09-07 16:50:16,764 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Transition 总共有2个分类  第0个分类中元素个数为:14  
+2023-09-07 16:50:16,765 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:50:17,699 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:50:17,700 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:50:17,702 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:50:17,703 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:50:17,705 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:50:20,155 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有4个分类  第0个分类中元素个数为:14  
+2023-09-07 16:50:20,156 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:50:21,074 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:50:21,076 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:50:21,079 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:50:21,083 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:50:21,085 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:50:23,541 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有6个分类  第0个分类中元素个数为:14  
+2023-09-07 16:50:23,542 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:50:24,475 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:50:24,476 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:50:24,477 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:50:24,478 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  True  
+2023-09-07 16:50:26,110 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Transition 总共有8个分类  第0个分类中元素个数为:14  
+2023-09-07 16:50:26,111 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:50:27,028 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:50:27,033 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 16:50:27,034 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 16:50:27,035 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 16:50:27,038 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 16:50:29,115 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有10个分类  第0个分类中元素个数为:14  
+2023-09-07 16:50:29,115 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:50:30,039 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 16:50:30,045 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 16:50:32,481 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Audio 总共有11个分类  第0个分类中元素个数为:14  
+2023-09-07 16:50:32,482 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 16:52:43,185 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2146233083, None, (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147418113, '灾难性故障', (None, None, None, 0, None))
+  
+2023-09-07 16:52:43,193 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:52:43,218 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 16:52:43,222 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 108, in run_logic--Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 118, in click_media_button
+    print(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 68, in run_logic
+    if not self.click_media_button(media_group_control, click_name=click_name):
+  File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 127, in click_media_button
+    self.my_log.print_info(media_group_control.GetChildren())
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6308, in GetChildren
+    child = self.GetFirstChildControl()
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 6254, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-07 17:01:28,162 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 82, in get_media_group_control--[<uiautomation.uiautomation.WindowControl object at 0x0000022B51AECB20>, <uiautomation.uiautomation.PaneControl object at 0x0000022B51AEC850>, <uiautomation.uiautomation.ButtonControl object at 0x0000022B51AECAF0>, <uiautomation.uiautomation.ButtonControl object at 0x0000022B51AECA90>, <uiautomation.uiautomation.ButtonControl object at 0x0000022B51AEC880>, <uiautomation.uiautomation.CustomControl object at 0x0000022B51AEC8B0>, <uiautomation.uiautomation.GroupControl object at 0x0000022B51AEC8E0>, <uiautomation.uiautomation.TextControl object at 0x0000022B51AEC910>, <uiautomation.uiautomation.TextControl object at 0x0000022B51AEC970>, <uiautomation.uiautomation.ButtonControl object at 0x0000022B51AEC9A0>, <uiautomation.uiautomation.ButtonControl object at 0x0000022B51AEC9D0>, <uiautomation.uiautomation.ButtonControl object at 0x0000022B51AECA30>]  
+2023-09-07 17:01:28,215 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:01:28,219 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:01:28,223 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 17:01:28,225 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 17:01:28,226 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 17:01:28,229 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 17:01:28,231 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 17:01:30,016 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Filters 总共有2个分类  第0个分类中元素个数为:103  
+2023-09-07 17:01:30,017 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 17:01:30,982 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:01:30,984 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:01:30,985 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 17:01:30,991 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 17:01:30,992 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 17:01:30,994 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  False  
+2023-09-07 17:01:30,995 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Filters  True  
+2023-09-07 17:01:34,334 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Filters 总共有4个分类  第0个分类中元素个数为:103  
+2023-09-07 17:01:34,335 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 17:01:35,307 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:01:35,308 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:01:35,315 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 17:01:38,785 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Text 总共有6个分类  第0个分类中元素个数为:103  
+2023-09-07 17:01:38,787 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第0个元素  
+2023-09-07 17:01:39,820 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  True  
+2023-09-07 17:01:42,510 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Media 总共有7个分类  第0个分类中元素个数为:103  
+2023-09-07 17:01:42,511 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 17:01:43,592 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:01:43,597 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:01:43,601 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 17:01:43,604 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 17:01:43,609 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  False  
+2023-09-07 17:01:43,613 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Effects  True  
+2023-09-07 17:01:47,337 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Effects 总共有9个分类  第0个分类中元素个数为:103  
+2023-09-07 17:01:47,337 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 17:01:48,550 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:01:48,557 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:01:48,561 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 17:01:48,562 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 17:01:48,572 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 17:01:52,245 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有11个分类  第0个分类中元素个数为:103  
+2023-09-07 17:01:52,263 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 17:01:53,504 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:01:53,540 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  True  
+2023-09-07 17:01:57,953 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Audio 总共有12个分类  第0个分类中元素个数为:103  
+2023-09-07 17:01:57,957 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 17:01:59,318 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:01:59,325 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:01:59,327 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 17:01:59,334 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  True  
+2023-09-07 17:02:06,094 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Transition 总共有14个分类  第0个分类中元素个数为:103  
+2023-09-07 17:02:06,095 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  
+2023-09-07 17:02:07,522 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:02:07,533 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:02:07,535 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  True  
+2023-09-07 17:02:11,151 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Text 总共有16个分类  第0个分类中元素个数为:103  
+2023-09-07 17:02:11,152 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第0个元素  
+2023-09-07 17:02:12,170 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Media  False  
+2023-09-07 17:02:12,171 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Audio  False  
+2023-09-07 17:02:12,182 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Text  False  
+2023-09-07 17:02:12,183 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Transition  False  
+2023-09-07 17:02:12,198 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\EditMainUI\EditMainUI.py", line 121, in click_media_button--Stickers  True  
+2023-09-07 17:02:15,223 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 79, in run_logic--类型Stickers 总共有18个分类  第0个分类中元素个数为:103  
+2023-09-07 17:02:15,224 - root - INFO -   File "E:\MyProject\PythonProject\pythonProject\EVE\UI_Click\add_random_items\add_random_item.py", line 86, in run_logic--随机拖动第1个元素  

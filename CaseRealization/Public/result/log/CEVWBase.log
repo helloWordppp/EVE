@@ -1,0 +1,2 @@
+2023-06-19 16:58:54,156 - root - INFO -   File "E:\MyProject\PythonProject\ERE3.5\CaseRealization\Public\ere_base.py", line 488, in get_all_hwnd--OrderedDict([('hwnd', 6229198), ('title', 'RecExperts'), ('hwnd_id', 57940)])  
+2023-06-20 14:00:14,341 - root - INFO -   File "E:/MyProject/PythonProject/ERE3.5/CaseRealization/Public/ere_base.py", line 489, in get_all_hwnd--OrderedDict([('hwnd', 8786818), ('title', 'RecExperts'), ('hwnd_id', 27832)])  
