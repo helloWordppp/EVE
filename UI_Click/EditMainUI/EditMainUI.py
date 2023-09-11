@@ -130,7 +130,7 @@ class CEditMainUI(CUIBase):
             # print(media_group_control.GetChildren())
             all_check_box = media_group_control.GetChildren()[0].GetChildren()
             for item in all_check_box:
-                self.my_log.print_info(item.Name, item.Name == click_name)
+                # self.my_log.print_info(item.Name, item.Name == click_name)
                 if item.Name == click_name:
                     item.Click()
                     return True
@@ -561,6 +561,68 @@ class CEditMainUI(CUIBase):
         self.my_log.print_info("x1:{0} y1:{1} x2:{2} y2:{3}".format(x1, y1, x2, y2))
         self.drag_drop_mouse(x1, y1, x2, y2, 2)
 
+        return True
+
+    def click_add_media_item(self, file_path, file_name=None, type="Media"):
+        """
+        点击添加按钮添加文件
+        :param file_path:
+        :param file_name:
+        :return:
+        """
+        print(self.main_product)
+        first_child = self.main_product.GetChildren()[0]
+        # 如果已经存在文件选择弹窗则关闭
+        if first_child.Name == "Choose folder or files":
+            first_child.GetChildren()[-4].Click()
+            time.sleep(0.5)
+
+        # 获取素材类型
+        media_group_control, player_control, info_control = self.get_media_group_control()
+        if media_group_control is None:
+            self.my_log.print_info("未找到素材类型")
+            return False
+
+        self.click_media_button(media_group_control, click_name=type)
+
+        if type == "Media":
+            # 获取该素材下的所有子元素
+            all_list_control = self.get_media_info_items(media_group_control)
+
+            # 第1个是包含添加的控件
+            index = 0
+            all_items = all_list_control[index].GetChildren()
+            # 第一个为添加按钮
+            items_index = 0
+            self.my_log.print_info("随机拖动第{0}个元素".format(items_index))
+            add_button = all_items[items_index]
+        else:
+            item_group = media_group_control.GetChildren()[1].GetChildren()[0]
+            all_child = self.Get_all_child(item_group)
+            add_button = None
+            for item in all_child:
+                try:
+                    if item.ClassName == "QPushButton":
+                        add_button = item
+                        break
+                except:
+                    # self.my_log.print_info(traceback.format_exc())
+                    pass
+        if add_button is None:
+            self.my_log.print_info("未找到添加按钮", type)
+            return False
+        try:
+            self.add_local_file(add_button, file_path, file_name)
+        except:
+            self.my_log.print_info(traceback.format_exc())
+            first_child = self.main_product.GetChildren()[0]
+            # 如果已经存在文件选择弹窗则关闭
+            if first_child.Name == "Choose folder or files":
+                first_child.GetChildren()[-4].Click()
+                time.sleep(0.5)
+            self.my_log.print_info("添加失败", type)
+            return False
+        print(self.main_product)
         return True
 
 

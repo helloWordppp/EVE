@@ -149,7 +149,7 @@ class CIniConfig:
                 new_line = "[" + item + "]" + "\n"
                 file_handle.write(new_line)
                 for chile_item in self.all_data[item].keys():
-                    child_line = chile_item + "=" + self.all_data[item][chile_item] + "\n"
+                    child_line = str(chile_item) + "=" + str(self.all_data[item][chile_item]) + "\n"
                     file_handle.write(child_line)
                 file_handle.write("\n")
 

@@ -1,0 +1,179 @@
+2023-09-11 21:47:33,104 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'creat_one_project')])  
+2023-09-11 21:47:33,104 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x00000247932152B0>> one_setup:OrderedDict()  
+2023-09-11 21:47:33,159 - root - INFO -   File "E:\EVE\CaseRealization\Public\eve_base.py", line 183, in run_program--17928  
+2023-09-11 21:48:06,508 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x00000247932152B0>> one_setup:OrderedDict() result:True  
+2023-09-11 21:48:06,640 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'set_app_max')])  
+2023-09-11 21:48:06,641 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 62, in run_one_case
+    function_pb = getattr(case_main, function_name)
+AttributeError: 'CCreateNewProject' object has no attribute 'set_app_max'
+  
+2023-09-11 21:48:08,879 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict()  
+2023-09-11 21:48:08,884 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict() result:True  
+2023-09-11 21:48:08,884 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'click_media_button'), ('click_name', 'Media')])  
+2023-09-11 21:48:08,886 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 62, in run_one_case
+    function_pb = getattr(case_main, function_name)
+AttributeError: 'CCreateNewProject' object has no attribute 'click_media_button'
+  
+2023-09-11 21:48:11,178 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CEditMainUI.click_media_button of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict([('click_name', 'Media')])  
+2023-09-11 21:48:11,345 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  True  
+2023-09-11 21:48:12,798 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CEditMainUI.click_media_button of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict([('click_name', 'Media')]) result:True  
+2023-09-11 21:48:12,799 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'select_media_add_to_track'), ('list_index', '0'), ('item_index', '1'), ('track_index', '0'), ('track_local', '0.2')])  
+2023-09-11 21:48:12,801 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 62, in run_one_case
+    function_pb = getattr(case_main, function_name)
+AttributeError: 'CCreateNewProject' object has no attribute 'select_media_add_to_track'
+  
+2023-09-11 21:48:15,069 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CEditMainUI.select_media_add_to_track of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict([('list_index', '0'), ('item_index', '1'), ('track_index', '0'), ('track_local', '0.2')])  
+2023-09-11 21:48:15,237 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 533, in select_media_add_to_track--总共有2个分类  第0分类中元素个数为:1  
+2023-09-11 21:48:16,253 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 252, in set_one_track_visible--128  636  1912  1024  ------one_track_control  128  715  1912  795  
+2023-09-11 21:48:16,256 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 561, in select_media_add_to_track--x1:346 y1:156 x2:484 y2:785  
+2023-09-11 21:48:19,038 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CEditMainUI.select_media_add_to_track of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict([('list_index', '0'), ('item_index', '1'), ('track_index', '0'), ('track_local', '0.2')]) result:True  
+2023-09-11 21:48:19,040 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'get_track_zoom_ratio'), ('set_value', '50'), ('click_type', 'button')])  
+2023-09-11 21:48:19,041 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 62, in run_one_case
+    function_pb = getattr(case_main, function_name)
+AttributeError: 'CCreateNewProject' object has no attribute 'get_track_zoom_ratio'
+  
+2023-09-11 21:48:21,410 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CEditMainUI.get_track_zoom_ratio of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict([('set_value', '50'), ('click_type', 'button')])  
+2023-09-11 21:48:21,568 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 346, in get_track_zoom_ratio--get_track_zoom_ratio  get_track_zoom_ratio:  0  
+2023-09-11 21:48:55,563 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CEditMainUI.get_track_zoom_ratio of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x00000247932152B0>> one_setup:OrderedDict([('set_value', '50'), ('click_type', 'button')]) result:False  
+2023-09-11 21:56:11,281 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'creat_one_project')])  
+2023-09-11 21:56:11,282 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x0000022E9CEA21C0>> one_setup:OrderedDict()  
+2023-09-11 21:56:11,333 - root - INFO -   File "E:\EVE\CaseRealization\Public\eve_base.py", line 183, in run_program--5920  
+2023-09-11 21:56:45,065 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x0000022E9CEA21C0>> one_setup:OrderedDict() result:True  
+2023-09-11 21:56:45,067 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'set_app_max')])  
+2023-09-11 21:56:45,068 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 62, in run_one_case
+    function_pb = getattr(case_main, function_name)
+AttributeError: 'CCreateNewProject' object has no attribute 'set_app_max'
+  
+2023-09-11 21:56:47,429 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000022E9CEA26A0>> one_setup:OrderedDict()  
+2023-09-11 21:56:47,434 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000022E9CEA26A0>> one_setup:OrderedDict() result:True  
+2023-09-11 21:56:47,435 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Media')])  
+2023-09-11 21:56:47,437 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 62, in run_one_case
+    function_pb = getattr(case_main, function_name)
+AttributeError: 'CCreateNewProject' object has no attribute 'click_add_media_item'
+  
+2023-09-11 21:56:49,706 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000022E9CEA28E0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')])  
+2023-09-11 21:56:49,983 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  True  
+2023-09-11 21:56:51,490 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 597, in click_add_media_item--随机拖动第0个元素  
+2023-09-11 21:56:54,512 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 423, in add_local_file--click input_path_control:  487  17.5  
+2023-09-11 21:57:01,711 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 80, in run_one_case--function_name<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000022E9CEA28E0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')]) result:True  
+2023-09-11 21:57:01,712 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 56, in run_one_case--OrderedDict([('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Audio')])  
+2023-09-11 21:57:01,713 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 62, in run_one_case
+    function_pb = getattr(case_main, function_name)
+AttributeError: 'CCreateNewProject' object has no attribute 'click_add_media_item'
+  
+2023-09-11 21:57:04,359 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 78, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000022E9CEA21C0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Audio')])  
+2023-09-11 21:57:04,567 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  False  
+2023-09-11 21:57:04,568 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Audio  True  
+2023-09-11 22:33:40,660 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 64, in run_one_case--OrderedDict([('setup', 'setup_1'), ('function_name', 'creat_one_project'), ('doc', '启动创建一个工程')])  
+2023-09-11 22:33:40,660 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 87, in run_one_case--用例执行失败  
+2023-09-11 22:36:49,119 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_1'), ('function_name', 'creat_one_project'), ('doc', '启动创建一个工程')])  
+2023-09-11 22:36:49,119 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 88, in run_one_case--用例执行失败  
+2023-09-11 22:39:16,545 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_1'), ('function_name', 'creat_one_project'), ('doc', '启动创建一个工程')])  
+2023-09-11 22:39:16,545 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 88, in run_one_case--用例执行失败  
+2023-09-11 22:40:58,288 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_1'), ('function_name', 'creat_one_project'), ('doc', '启动创建一个工程')])  
+2023-09-11 22:40:58,288 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 89, in run_one_case--用例执行失败  
+2023-09-11 22:43:24,737 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_1'), ('function_name', 'creat_one_project'), ('doc', '启动创建一个工程')])  
+2023-09-11 22:43:24,738 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x0000023CB2A2BFD0>> one_setup:OrderedDict()  
+2023-09-11 22:43:24,800 - root - INFO -   File "E:\EVE\CaseRealization\Public\eve_base.py", line 183, in run_program--6224  
+2023-09-11 22:43:58,329 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x0000023CB2A2BFD0>> one_setup:OrderedDict() result:True  
+2023-09-11 22:43:58,329 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_2'), ('function_name', 'set_app_max'), ('doc', '最大化编辑工程页面')])  
+2023-09-11 22:44:00,724 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000023CB2A55040>> one_setup:OrderedDict()  
+2023-09-11 22:44:00,727 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000023CB2A55040>> one_setup:OrderedDict() result:True  
+2023-09-11 22:44:00,728 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_3'), ('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Media'), ('doc', '添加素材Media')])  
+2023-09-11 22:44:03,006 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000023CB2A2BFD0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')])  
+2023-09-11 22:44:03,260 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  True  
+2023-09-11 22:44:04,782 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 597, in click_add_media_item--随机拖动第0个元素  
+2023-09-11 22:44:07,726 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 423, in add_local_file--click input_path_control:  487  17.5  
+2023-09-11 22:44:14,976 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000023CB2A2BFD0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')]) result:True  
+2023-09-11 22:44:14,977 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_4'), ('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Audio'), ('doc', '添加素材Audio')])  
+2023-09-11 22:44:17,555 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000023CB2A551F0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Audio')])  
+2023-09-11 22:44:17,788 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  False  
+2023-09-11 22:44:17,789 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Audio  True  
+2023-09-11 22:44:18,955 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 109, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 104, in run_one_case
+    result = function_pb(**one_setup)
+  File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 604, in click_add_media_item
+    if item.GetClassName() == "Button":
+AttributeError: 'GroupControl' object has no attribute 'GetClassName'
+  
+2023-09-11 22:44:18,973 - root - ERROR - <class 'Exception'>
+Traceback (most recent call last):
+  File "E:\EVE\CaseRealization\Public\IniRead.py", line 136, in Set_section
+    self.Update_file()
+  File "E:\EVE\CaseRealization\Public\IniRead.py", line 152, in Update_file
+    child_line = chile_item + "=" + self.all_data[item][chile_item] + "\n"
+TypeError: can only concatenate str (not "bool") to str
+2023-09-11 22:45:16,104 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_1'), ('function_name', 'creat_one_project'), ('doc', '启动创建一个工程')])  
+2023-09-11 22:45:16,104 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x0000019EEFFC40A0>> one_setup:OrderedDict()  
+2023-09-11 22:45:16,164 - root - INFO -   File "E:\EVE\CaseRealization\Public\eve_base.py", line 183, in run_program--17352  
+2023-09-11 22:45:49,823 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x0000019EEFFC40A0>> one_setup:OrderedDict() result:True  
+2023-09-11 22:45:49,824 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_2'), ('function_name', 'set_app_max'), ('doc', '最大化编辑工程页面')])  
+2023-09-11 22:45:52,117 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000019EEFFC4130>> one_setup:OrderedDict()  
+2023-09-11 22:45:52,122 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000019EEFFC4130>> one_setup:OrderedDict() result:True  
+2023-09-11 22:45:52,123 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_3'), ('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Media'), ('doc', '添加素材Media')])  
+2023-09-11 22:45:54,459 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000019EEFFC49A0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')])  
+2023-09-11 22:45:54,697 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  True  
+2023-09-11 22:45:56,198 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 597, in click_add_media_item--随机拖动第0个元素  
+2023-09-11 22:45:59,220 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 423, in add_local_file--click input_path_control:  487  17.5  
+2023-09-11 22:46:06,463 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000019EEFFC49A0>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')]) result:True  
+2023-09-11 22:46:06,465 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_4'), ('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Audio'), ('doc', '添加素材Audio')])  
+2023-09-11 22:46:09,080 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x0000019EEFFC4220>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Audio')])  
+2023-09-11 22:46:09,272 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  False  
+2023-09-11 22:46:09,272 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Audio  True  
+2023-09-11 22:46:10,461 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 109, in run_one_case--Traceback (most recent call last):
+  File "E:\EVE\case_run_logic\run_case.py", line 104, in run_one_case
+    result = function_pb(**one_setup)
+  File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 604, in click_add_media_item
+    if item.ClassName == "Button":
+  File "C:\Python39\lib\site-packages\uiautomation\uiautomation.py", line 5917, in ClassName
+    return self.Element.CurrentClassName
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+  
+2023-09-11 22:46:10,492 - root - ERROR - <class 'Exception'>
+Traceback (most recent call last):
+  File "E:\EVE\CaseRealization\Public\IniRead.py", line 136, in Set_section
+    self.Update_file()
+  File "E:\EVE\CaseRealization\Public\IniRead.py", line 152, in Update_file
+    child_line = chile_item + "=" + self.all_data[item][chile_item] + "\n"
+TypeError: can only concatenate str (not "bool") to str
+2023-09-11 22:49:04,247 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_1'), ('function_name', 'creat_one_project'), ('doc', '启动创建一个工程')])  
+2023-09-11 22:49:04,247 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x000001E49B0740A0>> one_setup:OrderedDict()  
+2023-09-11 22:49:04,335 - root - INFO -   File "E:\EVE\CaseRealization\Public\eve_base.py", line 183, in run_program--11772  
+2023-09-11 22:49:38,062 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CCreateNewProject.creat_one_project of <UI_Click.add_random_items.create_new_project.CCreateNewProject object at 0x000001E49B0740A0>> one_setup:OrderedDict() result:True  
+2023-09-11 22:49:38,064 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_2'), ('function_name', 'set_app_max'), ('doc', '最大化编辑工程页面')])  
+2023-09-11 22:49:40,495 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B0748E0>> one_setup:OrderedDict()  
+2023-09-11 22:49:40,499 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.set_app_max of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B0748E0>> one_setup:OrderedDict() result:True  
+2023-09-11 22:49:40,500 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_3'), ('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Media'), ('doc', '添加素材Media')])  
+2023-09-11 22:49:42,884 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074A00>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')])  
+2023-09-11 22:49:43,158 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  True  
+2023-09-11 22:49:44,667 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 597, in click_add_media_item--随机拖动第0个元素  
+2023-09-11 22:49:47,691 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 423, in add_local_file--click input_path_control:  487  17.5  
+2023-09-11 22:49:54,914 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074A00>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Media')]) result:True  
+2023-09-11 22:49:54,915 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_4'), ('function_name', 'click_add_media_item'), ('file_path', 'E:\\test'), ('type', 'Audio'), ('doc', '添加素材Audio')])  
+2023-09-11 22:49:57,213 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074520>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Audio')])  
+2023-09-11 22:49:57,486 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  False  
+2023-09-11 22:49:57,487 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Audio  True  
+2023-09-11 22:49:58,674 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 612, in click_add_media_item--未找到添加按钮  Audio  
+2023-09-11 22:49:58,675 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.click_add_media_item of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074520>> one_setup:OrderedDict([('file_path', 'E:\\test'), ('type', 'Audio')]) result:False  
+2023-09-11 22:49:58,675 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_5'), ('function_name', 'click_media_button'), ('click_name', 'Media'), ('doc', '点击媒体分类中的Media类别按钮')])  
+2023-09-11 22:50:01,063 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.click_media_button of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074D00>> one_setup:OrderedDict([('click_name', 'Media')])  
+2023-09-11 22:50:01,226 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 133, in click_media_button--Media  True  
+2023-09-11 22:50:01,927 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.click_media_button of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074D00>> one_setup:OrderedDict([('click_name', 'Media')]) result:True  
+2023-09-11 22:50:01,928 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_6'), ('function_name', 'select_media_add_to_track'), ('list_index', '0'), ('item_index', '1'), ('track_index', '0'), ('track_local', '0.2'), ('doc', '添加第1个列表中的第1个元素到第一个生成的轨道上，轨道距离为占轨道开始的20%')])  
+2023-09-11 22:50:04,348 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.select_media_add_to_track of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074C70>> one_setup:OrderedDict([('list_index', '0'), ('item_index', '1'), ('track_index', '0'), ('track_local', '0.2')])  
+2023-09-11 22:50:04,603 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 533, in select_media_add_to_track--总共有5个分类  第0分类中元素个数为:3  
+2023-09-11 22:50:05,654 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 252, in set_one_track_visible--128  636  1912  1024  ------one_track_control  128  715  1912  795  
+2023-09-11 22:50:05,657 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 561, in select_media_add_to_track--x1:360 y1:153 x2:484 y2:785  
+2023-09-11 22:50:08,421 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.select_media_add_to_track of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074C70>> one_setup:OrderedDict([('list_index', '0'), ('item_index', '1'), ('track_index', '0'), ('track_local', '0.2')]) result:True  
+2023-09-11 22:50:08,421 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 65, in run_one_case--OrderedDict([('setup', 'setup_7'), ('function_name', 'get_track_zoom_ratio'), ('set_value', '50'), ('click_type', 'button'), ('doc', '通过点击滑块的加减去轨道缩放比列，该比例无法做到精确有1-5的差值')])  
+2023-09-11 22:50:10,843 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 102, in run_one_case--function_name:<bound method CEditMainUI.get_track_zoom_ratio of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074C10>> one_setup:OrderedDict([('set_value', '50'), ('click_type', 'button')])  
+2023-09-11 22:50:10,995 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 346, in get_track_zoom_ratio--get_track_zoom_ratio  get_track_zoom_ratio:  100  
+2023-09-11 22:50:17,053 - root - INFO -   File "E:\EVE\UI_Click\EditMainUI\EditMainUI.py", line 383, in get_track_zoom_ratio--set set_value:  45  
+2023-09-11 22:50:17,054 - root - INFO -   File "E:\EVE\case_run_logic\run_case.py", line 105, in run_one_case--function_name<bound method CEditMainUI.get_track_zoom_ratio of <UI_Click.EditMainUI.EditMainUI.CEditMainUI object at 0x000001E49B074C10>> one_setup:OrderedDict([('set_value', '50'), ('click_type', 'button')]) result:True  
