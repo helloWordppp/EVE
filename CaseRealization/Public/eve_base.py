@@ -548,16 +548,16 @@ class CEVEBase(object):
         self.my_log.print_info("get_ere_player_handle hwnd is:{0} max_w:{1} max_h:{2}".format(evw_handle, max_w, max_h))
         return evw_handle
 
-    def get_ere_home_handle(self):
+    def get_eve_edit_ui_handle(self):
         """
-        获取ere主界面handle
+        获取eve编辑主界面handle
         :return:
         """
         evw_handle = 0
         max_w = 0
         max_h = 0
 
-        process_handle_list = self.get_app_window_hwnd(all_handle=True)
+        process_handle_list = self.get_app_window_hwnd(process_name="VideoEditorQt.exe", all_handle=True)
 
         for one_handle in process_handle_list:
             w, h = self.get_app_size(one_handle["hwnd"])
@@ -752,17 +752,19 @@ class CEVEBase(object):
             pyautogui.scroll(direction*value)
             time.sleep(0.1)
 
-    def drag_drop_mouse(self, x1, y1, x2, y2) -> None:
+    def drag_drop_mouse(self, x1, y1, x2, y2, duration=0.5, button='left') -> None:
         """
-
+            鼠标移动到x1，y1然后鼠标按住left拖动至x2，y2 用时0.5秒
         :param x1:
         :param y1:
         :param x2:
         :param y2:
+        :param duration:用时0.5秒
+        :param button:left
         :return:
         """
         pyautogui.moveTo(x1, y1)
-        pyautogui.dragTo(x2, y2, 0.5, button='left')  # 按住鼠标左键，用0.5s将鼠标拖拽至1230，458
+        pyautogui.dragTo(x2, y2, duration=duration, button=button)  # 按住鼠标左键，用0.5s将鼠标拖拽至1230，458
 
     def get_img_local(self, voice_box_ico, app_pic) -> tuple:
         """
@@ -919,6 +921,17 @@ class CEVEBase(object):
 
         # print(all_item)
         return all_item
+
+    def get_ui_big(self):
+        """
+        获取界面的放大倍数
+        :return:
+        """
+        w, h = pyautogui.size()
+        if w > 2560:
+            return 2
+        return 1
+
 
 
 def convert(source, out_put, in_enc="utf-16-le", out_enc="UTF-8"):

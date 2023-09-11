@@ -64,6 +64,28 @@ def Send_ctrl_v(value):
     return True
 
 
+def Send_ctrl_a():
+    """
+    模拟按下ctrl+a
+    :return:
+    """
+    win32api.keybd_event(17, 0, 0, 0)
+    win32api.keybd_event(65, 0, 0, 0)
+
+    win32api.keybd_event(65, 0, win32con.KEYEVENTF_KEYUP, 0)
+    win32api.keybd_event(17, 0, win32con.KEYEVENTF_KEYUP, 0)
+
+
+def Send_enter():
+    """
+
+    :return:
+    """
+    win32api.keybd_event(13, 0, 0, 0)
+
+    win32api.keybd_event(13, 0, win32con.KEYEVENTF_KEYUP, 0)
+
+
 def Send_F9():
     """
 

@@ -82,7 +82,7 @@ class CMoveRandomItem(CEditMainUI):
             if left1 == left:
                 width = left1 - left2
 
-    def radom_move_items(self):
+    def radom_move_items(self, move_number=50):
         """
         随机移动控件
         :return:
@@ -113,7 +113,7 @@ class CMoveRandomItem(CEditMainUI):
 
         # self.time_line_orthogonal_scroll_bar_move(time_line_group_control, random.randint(20, 80))
 
-        move_number = 50
+        # move_number = 50
         while move_number > 0:
             try:
                 track_index = random.randint(0, len(all_track_list) - 1)
@@ -151,8 +151,8 @@ class CMoveRandomItem(CEditMainUI):
                     continue
                 y1 = top_one_track + random.randint(1, height_one_track-1)
 
-                x2 = left_track_parent + random.randint(100,  random.randint(1, width_track_parent))
-                y2 = top_track_parent + random.randint(50, random.randint(1, height_track_parent))
+                x2 = left_track_parent + random.randint(1,  width_track_parent)
+                y2 = top_track_parent + random.randint(1, height_track_parent)
 
                 self.my_log.print_info("x1: {0}, y1: {1}, x2: {2}, y2: {3}".format(x1, y1, x2, y2))
                 self.drag_drop_mouse(x1, y1, x2, y2)
@@ -161,7 +161,7 @@ class CMoveRandomItem(CEditMainUI):
                     # 改变缩放比列
                     self.get_track_zoom_ratio(time_line_group_control, random.randint(30, 80))
 
-                if random.randint(0,10) == 5:
+                if random.randint(0, 10) == 5:
                     # 拖动后重新 获取所有的轨道
                     self.time_line_orthogonal_scroll_bar_move(time_line_group_control, random.randint(20, 80))
 
